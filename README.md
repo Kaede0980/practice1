@@ -1,2 +1,3 @@
-# practice1
-practice
+# Hello World
+My first repository on GitHub
+This is practice
